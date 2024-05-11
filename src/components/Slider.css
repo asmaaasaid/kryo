@@ -1,0 +1,10 @@
+.slide-img
+{
+    height:50vh !important;
+    width:95% !important;
+    border-radius:10px !important;
+}
+.swiper-img
+{
+    overflow: hidden !important;
+}
